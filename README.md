@@ -11,5 +11,10 @@ This project uses a copy of [Universal Paperclips][1] by Frank Lantz, located in
 I have made the following modifications to the game:
 
 * Remove analytics
+* Add `<script>` tags to load my bot
 
 [1]: http://www.decisionproblem.com/paperclips/
+
+## License
+
+Everything except for the `game/` directory is released under the MIT License.
