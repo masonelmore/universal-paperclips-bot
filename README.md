@@ -12,6 +12,7 @@ I have made the following modifications to the game:
 
 * Remove analytics
 * Add `<script>` tags to load my bot
+* Add `<meta charset="UTF-8">` to `index2.html` for the bot UI
 
 [1]: http://www.decisionproblem.com/paperclips/
 
