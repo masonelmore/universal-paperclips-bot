@@ -1,7 +1,8 @@
 .PHONY: build clean run watch
 
 build: clean
-	./scripts/build.sh
+	npx vite build
+	cp -r game/* build
 
 clean:
 	rm -rf build

@@ -1,0 +1,9 @@
+{
+  "name": "universal-paperclips-bot",
+  "description": "A bot that plays Universal Paperclips",
+  "main": "bot/main.js",
+  "devDependencies": {
+    "vite": "^7.1.12"
+  },
+  "packageManager": "npm@11.6.1"
+}
