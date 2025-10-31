@@ -1,4 +1,4 @@
-class RateLimiter {
+export class RateLimiter {
     constructor(actionPerSecond) {
         this.tokenBucket = new TokenBucket(actionPerSecond, actionPerSecond);
     }
