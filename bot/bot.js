@@ -1,4 +1,6 @@
-class Bot {
+import { RateLimiter } from './rate-limiter.js';
+
+export class Bot {
     constructor(game, updateRate, actionsPerSecond) {
         this.game = game;
         this.updateRate = updateRate;
